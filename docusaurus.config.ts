@@ -98,6 +98,18 @@ const config: Config = {
           position: "right",
           className: "navbar-login-button",
         },
+        {
+          to: "/docs/intro",
+          label: "Docs",
+          position: "left",
+          className: "navbar-docs-button",
+        },
+        {
+          to: "/blog",
+          label: "Blogs",
+          position: "left",
+          className: "navbar-blog-button",
+        },
       ],
     },
     footer: {
@@ -111,12 +123,8 @@ const config: Config = {
               to: "/docs/intro",
             },
             {
-              label: "Best Practices",
-              to: "/docs/category/best-practices",
-            },
-            {
-              label: "Templates",
-              to: "/docs/category/templates",
+              label: "Basic Principles",
+              to: "/docs/category/basic-principles",
             },
           ],
         },
@@ -143,14 +151,6 @@ const config: Config = {
             {
               label: "Blog",
               to: "/blog",
-            },
-            {
-              label: "Resources",
-              to: "/resources",
-            },
-            {
-              label: "Contact",
-              to: "/contact",
             },
           ],
         },
