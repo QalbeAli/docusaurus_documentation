@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog</id>
+    <id>https://qalbeali.github.io/docusaurus_documentation/blog</id>
     <title>Doctor Documentation Hub Blog</title>
     <updated>2024-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog"/>
+    <link rel="alternate" href="https://qalbeali.github.io/docusaurus_documentation/blog"/>
     <subtitle>Doctor Documentation Hub Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/docusaurus_documentation/img/favicon.ico</icon>
+    <icon>https://qalbeali.github.io/docusaurus_documentation/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Essential Medical Documentation Best Practices for Healthcare Professionals]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge"/>
         <updated>2024-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Medical documentation is a critical aspect of healthcare delivery that ensures patient safety, facilitates communication among healthcare providers, and supports legal compliance. In this comprehensive guide, we'll explore the essential best practices that every healthcare professional should follow.]]></summary>
         <content type="html"><![CDATA[<p>Medical documentation is a critical aspect of healthcare delivery that ensures patient safety, facilitates communication among healthcare providers, and supports legal compliance. In this comprehensive guide, we'll explore the essential best practices that every healthcare professional should follow.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-proper-documentation-matters">Why Proper Documentation Matters<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#why-proper-documentation-matters" class="hash-link" aria-label="Direct link to Why Proper Documentation Matters" title="Direct link to Why Proper Documentation Matters">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-proper-documentation-matters">Why Proper Documentation Matters<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#why-proper-documentation-matters" class="hash-link" aria-label="Direct link to Why Proper Documentation Matters" title="Direct link to Why Proper Documentation Matters">​</a></h2>
 <p>Accurate and thorough medical documentation serves multiple purposes:</p>
 <ul>
 <li>Ensures continuity of care</li>
@@ -23,34 +23,34 @@
 <li>Protects against legal liability</li>
 <li>Enables proper billing and reimbursement</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-best-practices">Key Best Practices<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#key-best-practices" class="hash-link" aria-label="Direct link to Key Best Practices" title="Direct link to Key Best Practices">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-timeliness">1. Timeliness<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#1-timeliness" class="hash-link" aria-label="Direct link to 1. Timeliness" title="Direct link to 1. Timeliness">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-best-practices">Key Best Practices<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#key-best-practices" class="hash-link" aria-label="Direct link to Key Best Practices" title="Direct link to Key Best Practices">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-timeliness">1. Timeliness<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#1-timeliness" class="hash-link" aria-label="Direct link to 1. Timeliness" title="Direct link to 1. Timeliness">​</a></h3>
 <ul>
 <li>Document patient encounters as soon as possible</li>
 <li>Complete documentation within 24 hours of the encounter</li>
 <li>Update patient records promptly when new information becomes available</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-accuracy-and-completeness">2. Accuracy and Completeness<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#2-accuracy-and-completeness" class="hash-link" aria-label="Direct link to 2. Accuracy and Completeness" title="Direct link to 2. Accuracy and Completeness">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-accuracy-and-completeness">2. Accuracy and Completeness<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#2-accuracy-and-completeness" class="hash-link" aria-label="Direct link to 2. Accuracy and Completeness" title="Direct link to 2. Accuracy and Completeness">​</a></h3>
 <ul>
 <li>Use objective, factual language</li>
 <li>Include all relevant clinical findings</li>
 <li>Document both positive and negative findings</li>
 <li>Avoid vague or ambiguous terms</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-standardization">3. Standardization<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#3-standardization" class="hash-link" aria-label="Direct link to 3. Standardization" title="Direct link to 3. Standardization">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-standardization">3. Standardization<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#3-standardization" class="hash-link" aria-label="Direct link to 3. Standardization" title="Direct link to 3. Standardization">​</a></h3>
 <ul>
 <li>Use standardized templates when appropriate</li>
 <li>Follow established documentation protocols</li>
 <li>Maintain consistency in terminology</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-privacy-and-security">4. Privacy and Security<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#4-privacy-and-security" class="hash-link" aria-label="Direct link to 4. Privacy and Security" title="Direct link to 4. Privacy and Security">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-privacy-and-security">4. Privacy and Security<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#4-privacy-and-security" class="hash-link" aria-label="Direct link to 4. Privacy and Security" title="Direct link to 4. Privacy and Security">​</a></h3>
 <ul>
 <li>Follow HIPAA guidelines</li>
 <li>Use secure systems for documentation</li>
 <li>Maintain patient confidentiality</li>
 <li>Implement proper access controls</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-pitfalls-to-avoid">Common Pitfalls to Avoid<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#common-pitfalls-to-avoid" class="hash-link" aria-label="Direct link to Common Pitfalls to Avoid" title="Direct link to Common Pitfalls to Avoid">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-pitfalls-to-avoid">Common Pitfalls to Avoid<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#common-pitfalls-to-avoid" class="hash-link" aria-label="Direct link to Common Pitfalls to Avoid" title="Direct link to Common Pitfalls to Avoid">​</a></h2>
 <ol>
 <li>
 <p><strong>Incomplete Documentation</strong></p>
@@ -77,7 +77,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tips-for-improvement">Tips for Improvement<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#tips-for-improvement" class="hash-link" aria-label="Direct link to Tips for Improvement" title="Direct link to Tips for Improvement">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tips-for-improvement">Tips for Improvement<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#tips-for-improvement" class="hash-link" aria-label="Direct link to Tips for Improvement" title="Direct link to Tips for Improvement">​</a></h2>
 <ol>
 <li>
 <p><strong>Use Templates Effectively</strong></p>
@@ -104,7 +104,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-basic-knowledge#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-basic-knowledge#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>Proper medical documentation is not just a regulatory requirement—it's a fundamental aspect of quality patient care. By following these best practices, healthcare professionals can ensure that their documentation is accurate, complete, and useful for all stakeholders involved in patient care.</p>
 <p>Remember, good documentation is a skill that improves with practice and attention to detail. Make it a priority in your daily practice, and you'll see the benefits in both patient care and professional practice.</p>]]></content>
         <author>
@@ -116,12 +116,12 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Essential Medical Documentation Templates Every Healthcare Provider Should Know]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates"/>
         <updated>2024-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Medical documentation templates are invaluable tools that help healthcare providers maintain consistency, save time, and ensure comprehensive patient records. In this guide, we'll explore the most important templates and how to use them effectively.]]></summary>
         <content type="html"><![CDATA[<p>Medical documentation templates are invaluable tools that help healthcare providers maintain consistency, save time, and ensure comprehensive patient records. In this guide, we'll explore the most important templates and how to use them effectively.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-use-templates">Why Use Templates?<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#why-use-templates" class="hash-link" aria-label="Direct link to Why Use Templates?" title="Direct link to Why Use Templates?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-use-templates">Why Use Templates?<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#why-use-templates" class="hash-link" aria-label="Direct link to Why Use Templates?" title="Direct link to Why Use Templates?">​</a></h2>
 <p>Templates offer several benefits:</p>
 <ul>
 <li>Standardize documentation across providers</li>
@@ -130,14 +130,14 @@
 <li>Improve accuracy and consistency</li>
 <li>Facilitate better patient care</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="essential-templates">Essential Templates<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#essential-templates" class="hash-link" aria-label="Direct link to Essential Templates" title="Direct link to Essential Templates">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-patient-history-template">1. Patient History Template<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#1-patient-history-template" class="hash-link" aria-label="Direct link to 1. Patient History Template" title="Direct link to 1. Patient History Template">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="essential-templates">Essential Templates<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#essential-templates" class="hash-link" aria-label="Direct link to Essential Templates" title="Direct link to Essential Templates">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-patient-history-template">1. Patient History Template<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#1-patient-history-template" class="hash-link" aria-label="Direct link to 1. Patient History Template" title="Direct link to 1. Patient History Template">​</a></h3>
 <div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> Patient History</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Chief Complaint: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> History of Present Illness: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Past Medical History: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Medications: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Allergies: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Family History: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Social History: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Review of Systems: [ ]</span><br></span></code></pre></div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-physical-examination-template">2. Physical Examination Template<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#2-physical-examination-template" class="hash-link" aria-label="Direct link to 2. Physical Examination Template" title="Direct link to 2. Physical Examination Template">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-physical-examination-template">2. Physical Examination Template<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#2-physical-examination-template" class="hash-link" aria-label="Direct link to 2. Physical Examination Template" title="Direct link to 2. Physical Examination Template">​</a></h3>
 <div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> Physical Examination</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Vital Signs: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> General Appearance: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> HEENT: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Cardiovascular: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Respiratory: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Gastrointestinal: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Musculoskeletal: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Neurological: [ ]</span><br></span></code></pre></div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-progress-note-template">3. Progress Note Template<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#3-progress-note-template" class="hash-link" aria-label="Direct link to 3. Progress Note Template" title="Direct link to 3. Progress Note Template">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-progress-note-template">3. Progress Note Template<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#3-progress-note-template" class="hash-link" aria-label="Direct link to 3. Progress Note Template" title="Direct link to 3. Progress Note Template">​</a></h3>
 <div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> Progress Note</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Date: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Subjective: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Objective: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Assessment: [ ]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token list punctuation" style="color:#393A34">-</span><span class="token plain"> Plan: [ ]</span><br></span></code></pre></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices-for-using-templates">Best Practices for Using Templates<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#best-practices-for-using-templates" class="hash-link" aria-label="Direct link to Best Practices for Using Templates" title="Direct link to Best Practices for Using Templates">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices-for-using-templates">Best Practices for Using Templates<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#best-practices-for-using-templates" class="hash-link" aria-label="Direct link to Best Practices for Using Templates" title="Direct link to Best Practices for Using Templates">​</a></h2>
 <ol>
 <li>
 <p><strong>Customization</strong></p>
@@ -164,22 +164,22 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="digital-vs-paper-templates">Digital vs. Paper Templates<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#digital-vs-paper-templates" class="hash-link" aria-label="Direct link to Digital vs. Paper Templates" title="Direct link to Digital vs. Paper Templates">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="digital-templates">Digital Templates<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#digital-templates" class="hash-link" aria-label="Direct link to Digital Templates" title="Direct link to Digital Templates">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="digital-vs-paper-templates">Digital vs. Paper Templates<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#digital-vs-paper-templates" class="hash-link" aria-label="Direct link to Digital vs. Paper Templates" title="Direct link to Digital vs. Paper Templates">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="digital-templates">Digital Templates<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#digital-templates" class="hash-link" aria-label="Direct link to Digital Templates" title="Direct link to Digital Templates">​</a></h3>
 <ul>
 <li>Easy to update and modify</li>
 <li>Integrated with EMR systems</li>
 <li>Automated data collection</li>
 <li>Better accessibility</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="paper-templates">Paper Templates<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#paper-templates" class="hash-link" aria-label="Direct link to Paper Templates" title="Direct link to Paper Templates">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="paper-templates">Paper Templates<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#paper-templates" class="hash-link" aria-label="Direct link to Paper Templates" title="Direct link to Paper Templates">​</a></h3>
 <ul>
 <li>No technical issues</li>
 <li>Works without internet</li>
 <li>Familiar to some providers</li>
 <li>Easy to customize</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tips-for-effective-template-use">Tips for Effective Template Use<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#tips-for-effective-template-use" class="hash-link" aria-label="Direct link to Tips for Effective Template Use" title="Direct link to Tips for Effective Template Use">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tips-for-effective-template-use">Tips for Effective Template Use<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#tips-for-effective-template-use" class="hash-link" aria-label="Direct link to Tips for Effective Template Use" title="Direct link to Tips for Effective Template Use">​</a></h2>
 <ol>
 <li>
 <p><strong>Keep it Simple</strong></p>
@@ -206,7 +206,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/medical-documentation-templates#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://qalbeali.github.io/docusaurus_documentation/blog/medical-documentation-templates#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>Medical documentation templates are powerful tools that can significantly improve the quality and efficiency of patient care documentation. By using well-designed templates and following best practices, healthcare providers can ensure comprehensive, accurate, and timely documentation while saving valuable time.</p>
 <p>Remember that templates should be living documents that evolve with your practice's needs and regulatory requirements. Regular review and updates will ensure they remain valuable tools in your documentation arsenal.</p>]]></content>
         <author>
@@ -218,8 +218,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/welcome</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/welcome"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/welcome</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
         <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
@@ -232,7 +232,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://your-docusaurus-site.example.com/docusaurus_documentation/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://qalbeali.github.io/docusaurus_documentation/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <author>
@@ -249,8 +249,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/mdx-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/mdx-blog-post"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/mdx-blog-post</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/mdx-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -267,8 +267,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/long-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/long-blog-post"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/long-blog-post</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -298,8 +298,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/docusaurus_documentation/blog/first-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/docusaurus_documentation/blog/first-blog-post"/>
+        <id>https://qalbeali.github.io/docusaurus_documentation/blog/first-blog-post</id>
+        <link href="https://qalbeali.github.io/docusaurus_documentation/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
