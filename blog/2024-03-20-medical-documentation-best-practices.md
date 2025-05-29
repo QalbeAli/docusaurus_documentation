@@ -1,5 +1,5 @@
 ---
-slug: medical-documentation-best-practices
+slug: medical-documentation-basic-knowledge
 title: Essential Medical Documentation Best Practices for Healthcare Professionals
 author: admin
 tags: [documentation, best-practices, healthcare]

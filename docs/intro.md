@@ -61,9 +61,9 @@ Medical documentation serves multiple critical purposes:
 
 To begin your journey with proper medical documentation:
 
-1. Review the [Basic Principles](./category/basic-principles)
-2. Explore [Documentation Templates](./category/templates)
-3. Learn about [Best Practices](./category/best-practices)
+1. Review the [Basic Principles]
+2. Explore [Documentation Templates]
+3. Learn about [Best Practices]
 
 ## Contributing
 
@@ -77,7 +77,7 @@ We welcome contributions from healthcare professionals to improve this documenta
 
 If you need help or have questions:
 
-- Check our [FAQ](./faq)
+- Check our [FAQ]
 - Contact our support team
 - Join our community forum
 
